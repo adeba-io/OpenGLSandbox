@@ -1,0 +1,1 @@
+g++ -o OpenGL.exe -c -IDependencies -lglfw3 -lopengl32 .\Source\main.cpp
